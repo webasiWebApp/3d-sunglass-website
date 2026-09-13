@@ -1,4 +1,4 @@
-Build a premium cinematic e-commerce website for a sunglasses brand called:
+Create a premium, highly minimalistic sunglasses e-commerce website called:
 
 
 
@@ -6,203 +6,209 @@ AVIATOR
 
 
 
-The website must feel like an architectural product exhibition / digital showroom rather than a conventional e-commerce website.
+The website should feel inspired by the design philosophy of Apple's product websites:
+
+extremely clean, spacious, elegant, product-focused, sophisticated, and highly polished.
 
 
 
-IMPORTANT ASSETS:
+IMPORTANT:
 
-\- Use the uploaded reference image as a visual-direction reference for the overall minimal product presentation, whitespace, typography, proportions, and restrained e-commerce aesthetic.
-
-\- Use the uploaded 3D FBX model as the actual sunglasses model in the hero and immersive product experience.
-
-\- Do NOT replace the supplied 3D model with a fake illustration, generic sunglasses model, static image, or placeholder if the FBX can be rendered.
-
-\- Inspect the FBX structure/materials and use the available geometry/materials intelligently.
-
-\- If the model contains multiple materials, expose appropriate material properties for frame/lens customization where technically possible.
+This is NOT a 3D-heavy website.
 
 
 
-CORE CREATIVE CONCEPT
+The supplied 3D FBX sunglasses model must be used ONLY in the HERO SECTION and specifically for the cinematic transition from Hero into the About section.
 
 
 
-Aviator should feel like:
+After the Hero/About transition, the website should primarily use:
+
+\- high-quality realistic product photography
+
+\- realistic sunglasses imagery
+
+\- premium lifestyle photography
+
+\- carefully selected stock/editorial images featuring men and women wearing sunglasses
 
 
 
-ARCHITECTURAL MINIMALISM
+Do NOT use the 3D model throughout the entire website.
 
-\+
+Do NOT create a 3D product configurator.
 
-CINEMATIC PRODUCT FILM
+Do NOT show frame/lens/material settings for the 3D model.
 
-\+
-
-PRECISION ENGINEERING
-
-\+
-
-LUXURY EYEWEAR
+Do NOT create an interactive 3D shopping experience.
 
 
 
-The visitor should feel that they are entering the physical world of the product.
-
-
-
-This is NOT a generic:
-
-hero → text → cards → footer
-
-website.
-
-
-
-Instead, the entire page should behave like one continuous visual story.
-
-
-
-The story should move approximately through:
-
-
-
-FORM
-
-→
-
-IDENTITY
-
-→
-
-PRECISION
-
-→
-
-ENGINEERING
-
-→
-
-OPTICS
-
-→
-
-MATERIAL
-
-→
-
-VISION
-
-→
-
-DESIRE
-
-→
-
-PRODUCT
-
-→
-
-PURCHASE
-
-
-
-The visitor experiences the product/design first and shops afterward.
+The 3D model is only a visual storytelling element.
 
 
 
 \--------------------------------------------------
 
-VISUAL DIRECTION
+OVERALL DESIGN DIRECTION
 
 \--------------------------------------------------
 
 
 
-STYLE:
-
-Architectural minimalism.
-
-Premium luxury eyewear.
-
-Editorial product design.
-
-Contemporary industrial design.
-
-Museum/exhibition-like composition.
-
-High-end fashion campaign restraint.
+Design language:
 
 
 
-Avoid visual clutter.
+Apple-inspired minimalism
+
+\+
+
+premium eyewear
+
+\+
+
+editorial fashion
+
+\+
+
+subtle cinematic scrolling
 
 
 
-Use large areas of negative space.
+The website must feel expensive because of:
+
+\- whitespace
+
+\- typography
+
+\- imagery
+
+\- proportions
+
+\- precise alignment
+
+\- subtle motion
+
+\- visual hierarchy
 
 
 
-The product should always have room to breathe.
+NOT because of excessive effects.
 
 
 
-Do not make the website look like a standard Shopify template.
+The design should be calm and confident.
 
 
 
-Do not use excessive gradients, glassmorphism, glowing neon effects, colorful backgrounds, oversized UI components, excessive rounded cards, or generic SaaS aesthetics.
+Use a lot of white space.
 
 
 
-COLOR SYSTEM:
+Do not fill empty space unnecessarily.
 
 
 
-Primary background:
-
-Warm white / ivory.
+Do not add decorative lines everywhere.
 
 
 
-Primary text:
-
-Black.
+Do not add excessive borders.
 
 
 
-Secondary:
+Do not add excessive cards.
+
+
+
+Do not use glassmorphism.
+
+
+
+Do not use neon colors.
+
+
+
+Do not use excessive gradients.
+
+
+
+Do not use excessive rounded corners.
+
+
+
+Do not use excessive shadows.
+
+
+
+Do not use generic SaaS UI.
+
+
+
+Do not make every section look like a different design.
+
+
+
+\--------------------------------------------------
+
+COLOR
+
+\--------------------------------------------------
+
+
+
+PRIMARY BACKGROUND:
+
+
+
+Pure white:
+
+\#FFFFFF
+
+
+
+PRIMARY TEXT:
+
+
+
+Black / near-black.
+
+
+
+SECONDARY:
+
+
 
 Very subtle neutral gray / silver.
 
 
 
-Maximum three visual colors.
+Keep the interface almost monochromatic.
 
 
 
-Approximate visual distribution:
+No colorful UI.
 
 
 
-60% warm white
-
-30% black / dark structural elements
-
-10% subtle gray / silver
+No warm beige background.
 
 
 
-The gray/silver should be extremely restrained.
+No cream background.
 
 
 
-Do not introduce random accent colors.
+No off-white background.
 
 
 
-Photography and the physical materials of the sunglasses may naturally introduce tonal variation, but the interface itself must remain restrained.
+The primary page background MUST be pure white.
+
+
+
+Photography may naturally contain different colors, but the interface itself should remain black, white and subtle gray/silver.
 
 
 
@@ -214,99 +220,87 @@ TYPOGRAPHY
 
 
 
-Use a maximum of two font families.
+Use exactly these two font families:
 
 
 
-Prefer:
+DM Sans
 
-\- one refined modern sans-serif for primary typography
-
-\- optionally one complementary neutral sans-serif
+Barlow Condensed
 
 
 
-Keep the typography highly controlled.
+Use them intentionally.
 
 
 
-Use only three major text levels:
+DM Sans:
+
+\- body text
+
+\- navigation
+
+\- descriptions
+
+\- product information
+
+\- buttons
+
+\- supporting UI
 
 
 
-1\. DISPLAY / SECTION TITLES
+Barlow Condensed:
 
-2\. BODY / SUPPORTING INFORMATION
+\- large editorial headlines
 
-3\. CTA / UI LABELS
+\- oversized section statements
 
+\- selected display typography
 
-
-Use typography contrast through:
-
-\- size
-
-\- weight
-
-\- uppercase/lowercase
-
-\- letter spacing
-
-\- spacing
-
-\- positioning
+\- short dramatic headlines
 
 
 
-Do not create dozens of different font sizes.
+Use Barlow Condensed for strong visual impact without requiring huge amounts of text.
 
 
 
-Use generous letter spacing for small uppercase labels.
+Typography must remain restrained.
 
 
 
-Typography should feel editorial and architectural.
+Avoid excessive font sizes.
 
 
 
-Example:
+Avoid too many text styles.
 
 
 
-AVIATOR
+Use strong contrast between:
 
+\- large display headline
 
+\- small supporting text
 
-PRECISION
-
-IN EVERY
-
-DETAIL.
-
-
-
-Small supporting text beneath it.
-
-
-
-Avoid huge blocks of copy.
+\- compact CTA
 
 
 
 \--------------------------------------------------
 
-HEADER / NAVIGATION
+NAVIGATION
 
 \--------------------------------------------------
 
 
 
-Create a very minimal adaptive navigation.
+Create a minimal Apple-like navigation.
 
 
 
-Recommended structure:
+Header:
 
 
 
@@ -316,11 +310,13 @@ AVIATOR
 
 COLLECTION
 
-VISION
+ABOUT
+
+TECHNOLOGY
 
 MATERIALS
 
-ABOUT
+CONTACT
 
 
 
@@ -328,425 +324,177 @@ CART
 
 
 
-The navigation should not visually dominate.
+Keep the navigation extremely clean.
 
 
 
-Use an overlay header when appropriate.
+No large navigation bar.
 
 
 
-The header should intelligently adapt to the current scene:
+No heavy borders.
 
 
 
-\- warm-white background → dark typography
-
-\- darker photographic/visual scene → adjust contrast appropriately
-
-\- cinematic hero → minimal transparent overlay
-
-\- product exploration → extremely restrained controls
+No giant logo.
 
 
 
-Navigation should feel like part of the architecture rather than a conventional website navbar.
+Use generous horizontal spacing.
 
 
 
-On scroll down, navigation may subtly reduce its visual presence.
+The navigation can subtly change on scroll.
 
 
 
-On scroll up, it can become more visible.
+During the hero, the header can sit over the scene.
 
 
 
-Do not use a large sticky header.
+When the background remains white, use black text.
+
+
+
+The header should never dominate the page.
+
+
+
+On mobile:
+
+\- AVIATOR logo/wordmark
+
+\- minimal menu button
+
+\- cart icon
+
+
+
+Keep mobile navigation extremely simple.
 
 
 
 \--------------------------------------------------
 
-HERO — THE MOST IMPORTANT SECTION
+PAGE STORY
 
 \--------------------------------------------------
 
 
 
-The hero must be cinematic.
+The page should tell one continuous story:
 
 
 
-Use the supplied FBX sunglasses model.
+1\. HERO
 
+2\. ABOUT AVIATOR
 
+3\. FEATURED SUNGLASSES
 
-Do not simply rotate the model continuously.
+4\. TECHNICAL HIGHLIGHT — PRECISION
 
+5\. TECHNICAL HIGHLIGHT — OPTICS
 
+6\. TRENDING SUNGLASSES
 
-The animation should be driven primarily by SCROLL.
+7\. VISION
 
+8\. MATERIAL
 
+9\. CONTACT
 
-Initial scene:
+10\. FOOTER
 
 
 
-A nearly empty warm-white architectural environment.
+The transitions between sections should feel intentional.
 
 
 
-Very subtle spatial geometry/shadow structure.
+Do not make every section look like a separate webpage.
 
 
 
-The sunglasses are initially partially obscured / distant / understated.
-
-
-
-The visitor begins scrolling.
-
-
-
-SCROLL SEQUENCE:
-
-
-
-1\. Subtle architectural environment appears.
-
-
-
-2\. The camera begins moving toward the sunglasses.
-
-
-
-3\. The sunglasses gradually become visible.
-
-
-
-4\. The product slowly rotates only as needed to reveal its geometry.
-
-
-
-5\. Camera moves toward the frame.
-
-
-
-6\. Close-up reveals:
-
-&#x20;  - frame silhouette
-
-&#x20;  - bridge
-
-&#x20;  - temple
-
-&#x20;  - lens
-
-&#x20;  - material details
-
-
-
-7\. Very restrained technical labels can temporarily appear.
-
-
-
-8\. Camera moves around the product.
-
-
-
-9\. Product reaches a hero composition.
-
-
-
-10\. Typography appears:
-
-
-
-AVIATOR
-
-
-
-PRECISION DESIGNED
-
-FOR THE WAY YOU SEE.
-
-
-
-11\. Continue scrolling.
-
-
-
-12\. Camera pulls back / product transitions spatially.
-
-
-
-13\. The hero environment seamlessly transforms into the About section.
-
-
-
-IMPORTANT:
-
-
-
-Do NOT make the hero feel like a spinning 3D product viewer.
-
-
-
-It should feel like a CAMERA JOURNEY through a physical product environment.
-
-
-
-The product rotation and camera movement should work together.
-
-
-
-The animation must have intentional pacing.
-
-
-
-Use easing and interpolation so movement feels physical and expensive.
+The page should feel like one long editorial experience.
 
 
 
 \--------------------------------------------------
 
-SCROLL PHILOSOPHY
+HERO
 
 \--------------------------------------------------
 
 
 
-The entire website should feel like one continuous cinematic product film.
+The Hero is the only section that uses the supplied 3D FBX sunglasses model.
 
 
 
-Use smooth scrolling.
+The hero should be extremely minimal.
 
 
 
-Use scroll-linked animation where appropriate.
+Pure white background.
 
 
 
-Use pinned/sticky scenes for important storytelling moments.
+The sunglasses are the visual centerpiece.
 
 
 
-Animation intensity should rise and fall.
+Use realistic studio-quality lighting on the 3D model.
 
 
 
-Do NOT animate everything.
+The model should have:
 
+\- realistic shadows
 
+\- realistic reflections
 
-The rhythm should be:
+\- clean studio lighting
 
+\- accurate proportions
 
+\- premium product-render quality
 
-quiet
 
-→
 
-approach
+Do not add a busy 3D environment.
 
-→
 
-reveal
 
-→
+Do not put the sunglasses inside a futuristic laboratory.
 
-pause
 
-→
 
-technical detail
+Do not add neon lighting.
 
-→
 
-transition
 
-→
+Do not add unnecessary particles.
 
-quiet
 
-→
 
-new visual reveal
+Keep the scene almost entirely white.
 
 
 
-Negative space is part of the animation.
+Possible hero composition:
 
 
 
-Some sections should deliberately remain almost still after a dramatic sequence.
+Large 3D sunglasses centered slightly above the visual center.
 
 
 
-Avoid scroll-jacking that makes the website uncomfortable.
+Small AVIATOR wordmark / headline.
 
 
 
-Scrolling must still feel natural and controllable.
-
-
-
-\--------------------------------------------------
-
-SECTION 01 — HERO
-
-\--------------------------------------------------
-
-
-
-Purpose:
-
-Introduce Aviator as an object of design.
-
-
-
-Visual:
-
-3D sunglasses.
-
-
-
-Copy should be extremely minimal.
-
-
-
-Possible headline:
-
-
-
-PRECISION DESIGNED
-
-FOR THE WAY YOU SEE.
-
-
-
-Supporting line:
-
-
-
-Engineered form. Refined materials. Uncompromising clarity.
-
-
-
-Do not overfill the hero with text.
-
-
-
-\--------------------------------------------------
-
-SECTION 02 — ABOUT AVIATOR
-
-\--------------------------------------------------
-
-
-
-After the hero, transition seamlessly into the brand story.
-
-
-
-Do NOT simply jump to a conventional About Us block.
-
-
-
-The 3D product should visually lead into this section.
-
-
-
-Concept:
-
-
-
-FORM IS THE
-
-BEGINNING.
-
-
-
-Then a short editorial paragraph explaining that Aviator focuses on the relationship between:
-
-
-
-form
-
-function
-
-precision
-
-material
-
-vision
-
-
-
-Use large typography and generous whitespace.
-
-
-
-Potential visual behavior:
-
-
-
-The sunglasses move out of frame.
-
-
-
-The camera pulls back.
-
-
-
-Architectural geometry becomes visible.
-
-
-
-Typography occupies the space.
-
-
-
-Then subtle imagery begins entering the composition.
-
-
-
-\--------------------------------------------------
-
-SECTION 03 — FEATURED SUNGLASSES
-
-\--------------------------------------------------
-
-
-
-Show 3–4 flagship products.
-
-
-
-Cards should be extremely minimal.
-
-
-
-Do NOT make them heavily animated.
-
-
-
-Each product card should include:
-
-
-
-PRODUCT NAME
-
-product image
-
-short descriptor
-
-price
-
-EXPLORE
+Minimal supporting copy.
 
 
 
@@ -754,71 +502,337 @@ Example:
 
 
 
-01
-
-MODEL NAME
+AVIATOR
 
 
 
-Precision frame
+DESIGNED
 
-Polarized lens
-
-
-
-$180
+TO BE SEEN.
 
 
 
-EXPLORE
+Keep hero text extremely limited.
 
 
 
-The product image should be the dominant element.
-
-
-
-Use consistent image treatment.
-
-
-
-All product imagery must share:
-
-
-
-\- similar lighting
-
-\- similar background treatment
-
-\- similar color temperature
-
-\- similar scale
-
-\- consistent framing
-
-
-
-Cards can have very subtle hover behavior:
-
-
-
-\- slight image movement
-
-\- slight scale
-
-\- subtle information reveal
-
-\- understated border/line transition
-
-
-
-No flashy card animation.
+The product is the main visual.
 
 
 
 \--------------------------------------------------
 
-SECTION 04 — TECHNICAL HIGHLIGHT 01
+HERO SCROLL ANIMATION
+
+\--------------------------------------------------
+
+
+
+This is the most important animation on the website.
+
+
+
+When the user starts scrolling:
+
+
+
+The Hero becomes a pinned cinematic scene.
+
+
+
+The 3D sunglasses respond smoothly to scroll.
+
+
+
+Sequence:
+
+
+
+1\. Sunglasses begin in a centered hero position.
+
+
+
+2\. As scrolling begins, the camera subtly moves closer.
+
+
+
+3\. The sunglasses slowly rotate.
+
+
+
+4\. The rotation reveals the frame silhouette and lens.
+
+
+
+5\. The model begins moving horizontally toward the RIGHT side of the screen.
+
+
+
+6\. At the same time, the product scales down slightly.
+
+
+
+7\. The About section begins appearing on the LEFT side.
+
+
+
+8\. The sunglasses settle into the RIGHT COLUMN.
+
+
+
+9\. The final composition becomes:
+
+
+
+LEFT:
+
+About Aviator headline + minimal copy
+
+
+
+RIGHT:
+
+3D sunglasses model
+
+
+
+10\. The transition should feel continuous.
+
+
+
+There should be NO abrupt cut.
+
+
+
+The 3D model should visually connect the Hero and About sections.
+
+
+
+This transition is the signature animation of the website.
+
+
+
+IMPORTANT:
+
+
+
+Do not continuously rotate the sunglasses forever.
+
+
+
+The rotation should happen as part of the Hero → About transition.
+
+
+
+Once the model reaches the About section's right column, stop the 3D animation.
+
+
+
+The 3D model does NOT appear in later sections.
+
+
+
+\--------------------------------------------------
+
+ABOUT SECTION
+
+\--------------------------------------------------
+
+
+
+After the Hero transition:
+
+
+
+LEFT COLUMN:
+
+large headline
+
+
+
+RIGHT COLUMN:
+
+3D sunglasses resting visually in the composition
+
+
+
+Minimal text.
+
+
+
+Possible headline:
+
+
+
+FORM.
+
+FUNCTION.
+
+VISION.
+
+
+
+Supporting copy should be very short.
+
+
+
+Example:
+
+
+
+Aviator brings precision, refined materials and timeless form together in modern eyewear.
+
+
+
+Do not write a large About Us paragraph.
+
+
+
+Use whitespace.
+
+
+
+The 3D model should eventually fade/move out as the visitor continues scrolling.
+
+
+
+Then transition into photography.
+
+
+
+\--------------------------------------------------
+
+FEATURED SUNGLASSES
+
+\--------------------------------------------------
+
+
+
+Introduce the main products.
+
+
+
+Headline:
+
+
+
+FEATURED
+
+
+
+or
+
+
+
+THE COLLECTION
+
+
+
+Keep the heading short.
+
+
+
+Show 3–4 flagship sunglasses.
+
+
+
+Use realistic, high-quality product photography.
+
+
+
+Do NOT use the 3D model here.
+
+
+
+Product presentation should be very minimal.
+
+
+
+Each product:
+
+
+
+large image
+
+
+
+PRODUCT NAME
+
+
+
+short descriptor
+
+
+
+price
+
+
+
+VIEW PRODUCT
+
+
+
+Cards should feel more like an editorial product grid than conventional e-commerce cards.
+
+
+
+Avoid excessive borders.
+
+
+
+Avoid heavy card backgrounds.
+
+
+
+Use whitespace as the separation mechanism.
+
+
+
+\--------------------------------------------------
+
+PRODUCT CARD ANIMATION
+
+\--------------------------------------------------
+
+
+
+Keep product card animation subtle.
+
+
+
+On hover:
+
+
+
+\- image slightly scales
+
+\- image may shift very slightly
+
+\- product information subtly appears/repositions
+
+\- CTA becomes slightly more visible
+
+
+
+Do NOT make cards fly around.
+
+
+
+Do NOT use excessive 3D effects.
+
+
+
+Do NOT create complex animations for every product.
+
+
+
+The product photography should remain the focus.
+
+
+
+\--------------------------------------------------
+
+TECHNICAL SECTION 01
 
 PRECISION
 
@@ -826,7 +840,23 @@ PRECISION
 
 
 
-This is the first major technical storytelling sequence.
+Create a cinematic editorial section explaining technical precision.
+
+
+
+Use realistic macro product photography.
+
+
+
+Do not use the 3D model.
+
+
+
+Large image.
+
+
+
+Small amount of text.
 
 
 
@@ -840,83 +870,53 @@ IN EVERY DETAIL.
 
 
 
-Use a large product image or 3D composition.
+Then reveal visual details through scrolling.
 
 
 
-Show details such as:
+Possible content:
 
 
 
-frame geometry
+FRAME
 
-bridge construction
+BALANCE
 
-hinges
-
-temple structure
-
-balance
-
-construction
+CONSTRUCTION
 
 
 
-Only use actual product specifications if supplied by the product data.
+Only use actual technical information if provided.
 
 
 
-Do NOT invent technical claims.
+Do not invent specifications.
 
 
 
-Visual storytelling:
+Animation can include:
 
 
 
-Large product composition.
+\- image slowly scaling
+
+\- macro image moving through viewport
+
+\- text appearing gradually
+
+\- subtle horizontal/vertical movement
+
+\- image cropping changing as the user scrolls
 
 
 
-As the visitor scrolls:
-
-
-
-frame moves / camera approaches.
-
-
-
-Small labels appear near relevant areas.
-
-
-
-Example:
-
-
-
-FRAME GEOMETRY
-
-
-
-BALANCED PROPORTIONS
-
-
-
-PRECISION CONSTRUCTION
-
-
-
-Keep labels minimal.
-
-
-
-The scene should feel like an engineering drawing translated into a luxury product film.
+Keep animation elegant.
 
 
 
 \--------------------------------------------------
 
-SECTION 05 — TECHNICAL HIGHLIGHT 02
+TECHNICAL SECTION 02
 
 OPTICS
 
@@ -924,77 +924,7 @@ OPTICS
 
 
 
-Headline:
-
-
-
-CLARITY
-
-WITHOUT COMPROMISE.
-
-
-
-Focus on optical performance.
-
-
-
-Potential information areas:
-
-
-
-lens construction
-
-polarization
-
-UV protection
-
-lens curvature
-
-visual clarity
-
-
-
-ONLY display specifications that are actually known.
-
-
-
-Animation:
-
-
-
-Camera transitions toward the lens.
-
-
-
-Lens becomes visually dominant.
-
-
-
-Subtle reflections move across the lens.
-
-
-
-Technical information appears.
-
-
-
-Then the camera moves through / beyond the lens visually, creating the transition into the next chapter.
-
-
-
-The transition should feel cinematic but remain elegant.
-
-
-
-\--------------------------------------------------
-
-SECTION 06 — TRENDING SUNGLASSES
-
-\--------------------------------------------------
-
-
-
-Return to a quieter shopping-oriented section.
+Create another visually strong technical section.
 
 
 
@@ -1002,51 +932,77 @@ Headline:
 
 
 
-CURRENTLY IN VIEW.
+CLEAR
+
+BY DESIGN.
 
 
 
-Show 3–4 products.
+Use a realistic close-up photograph of the lens.
+
+
+
+Focus on:
+
+\- optical design
+
+\- lens clarity
+
+\- protection
+
+\- polarization if actually applicable
 
 
 
 Again:
 
-minimal cards.
+
+
+Never invent product specifications.
 
 
 
-No clutter.
+Use minimal text.
 
 
 
-Product name
-
-short description
-
-price
-
-EXPLORE
+Possible layout:
 
 
 
-Use consistent imagery.
+large image on one side
 
 
 
-This section should provide a visual breathing point after the technical storytelling.
+short headline + information on the other.
+
+
+
+As the user scrolls:
+
+
+
+lens image slowly moves
+
+
+
+text transitions in
+
+
+
+the next section emerges naturally.
 
 
 
 \--------------------------------------------------
 
-SECTION 07 — VISION
+TRENDING SUNGLASSES
 
 \--------------------------------------------------
 
 
 
-Shift from engineering toward emotion.
+Create another product section.
 
 
 
@@ -1054,69 +1010,157 @@ Headline:
 
 
 
-SEE DIFFERENTLY.
+TRENDING NOW
 
 
 
-Use carefully art-directed human/editorial photography here.
+or
 
 
 
-Human photography should be limited to approximately 1–2 strong images.
+IN VIEW
 
 
 
-Photography style:
+Use realistic product photography.
 
 
 
-\- sophisticated
-
-\- architectural
-
-\- fashion editorial
-
-\- minimal
-
-\- warm neutral tones
-
-\- strong composition
-
-\- natural shadows
-
-\- no generic stock-photo feeling
+Show 3–4 sunglasses.
 
 
 
-Do not fill the section with many lifestyle images.
+Keep the grid clean and spacious.
 
 
 
-The human should communicate identity and attitude, not simply demonstrate the sunglasses.
+These can be different from the flagship collection.
 
 
 
-Possible narrative:
+Product cards remain minimal.
 
 
 
-Vision is not only about what you see.
+No 3D model.
 
 
 
-It is about how you move through the world.
-
-
-
-Keep copy short.
+No excessive card animation.
 
 
 
 \--------------------------------------------------
 
-SECTION 08 — MATERIAL
+VISION SECTION
 
 \--------------------------------------------------
+
+
+
+This is where human/lifestyle photography becomes important.
+
+
+
+Use high-quality realistic editorial/stock photography featuring:
+
+
+
+\- men wearing sunglasses
+
+\- women wearing sunglasses
+
+\- sophisticated environments
+
+\- architectural locations
+
+\- outdoor lifestyle
+
+\- fashion/editorial compositions
+
+
+
+The people should look natural and premium.
+
+
+
+Avoid generic corporate stock photography.
+
+
+
+Avoid cheesy smiling models.
+
+
+
+Avoid overly busy backgrounds.
+
+
+
+Use photography that feels like a premium eyewear campaign.
+
+
+
+The images should communicate:
+
+
+
+confidence
+
+identity
+
+movement
+
+style
+
+vision
+
+
+
+Headline:
+
+
+
+SEE
+
+DIFFERENTLY.
+
+
+
+Use very little text.
+
+
+
+The photography should tell most of the story.
+
+
+
+\--------------------------------------------------
+
+MATERIAL SECTION
+
+\--------------------------------------------------
+
+
+
+Create a premium materials-focused section.
+
+
+
+Use realistic macro photography.
+
+
+
+Show:
+
+\- frame surfaces
+
+\- lens details
+
+\- material texture
+
+\- finishes
+
+\- construction details
 
 
 
@@ -1130,313 +1174,397 @@ MATTERS.
 
 
 
-Create a highly visual material-focused section.
+Use large images with generous whitespace.
 
 
 
-Focus on:
+The section should feel similar to a luxury product editorial.
 
 
 
-frame material
-
-surface finish
-
-lens material
-
-construction
-
-texture
-
-weight/balance
+Animation:
 
 
 
-Use macro photography and/or 3D close-ups.
+image enters slowly
 
 
 
-The visual language should resemble a luxury industrial design presentation.
+macro crop changes during scrolling
 
 
 
-Potential animation:
+text appears subtly
 
 
 
-Macro product detail moves slowly across screen.
+next image transitions into view
 
 
 
-Material labels appear.
-
-
-
-Camera transitions from macro detail back to complete product.
+Avoid excessive visual effects.
 
 
 
 \--------------------------------------------------
 
-SECTION 09 — PRODUCT EXPERIENCE
+IMAGE DIRECTION
 
 \--------------------------------------------------
 
 
 
-This is where the website becomes fully immersive e-commerce.
+Photography is extremely important.
 
 
 
-When the visitor selects a flagship product:
+Use realistic, high-resolution images.
 
 
 
-DO NOT immediately navigate to a normal product page.
+Product photography:
 
 
 
-Instead:
+\- clean studio backgrounds
 
+\- realistic lighting
 
+\- premium shadows
 
-PRODUCT CARD
+\- accurate color
 
-↓
+\- sharp details
 
-FULL-SCREEN PRODUCT EXPERIENCE
+\- consistent composition
 
-↓
 
-3D PRODUCT
 
-↓
+Lifestyle photography:
 
-CONFIGURATION
 
-↓
 
-ADD TO CART
+\- men and women
 
+\- premium fashion/editorial quality
 
+\- realistic environments
 
-The product becomes the dominant visual object.
+\- sophisticated styling
 
+\- natural lighting
 
+\- architectural environments
 
-Create an immersive full-screen product environment.
+\- modern lifestyle
 
 
 
-The UI should remain minimal.
+Do not mix obviously different photography styles.
 
 
 
-Example:
+Maintain consistency in:
 
+\- contrast
 
+\- lighting
 
-MODEL NAME
+\- saturation
 
+\- color temperature
 
+\- image quality
 
-FRAME
 
-BLACK
 
-SILVER
-
-TORTOISE
-
-
-
-LENS
-
-SMOKE
-
-CLEAR
-
-POLARIZED
-
-
-
-SIZE
-
-STANDARD
-
-LARGE
-
-
-
-PRICE
-
-
-
-ADD TO CART
-
-
-
-Only expose options that actually exist.
-
-
-
-If the FBX supports material changes:
-
-
-
-change the 3D model material in real time.
-
-
-
-For example:
-
-
-
-BLACK FRAME
-
-→
-
-3D frame changes to black.
-
-
-
-SILVER FRAME
-
-→
-
-3D frame changes to silver.
-
-
-
-If separate lens materials are available:
-
-
-
-SMOKE
-
-→
-
-lens changes.
-
-
-
-POLARIZED
-
-→
-
-appropriate visual/material state.
-
-
-
-Do not fake functionality that the asset/data does not support.
+Do not use low-quality generic stock imagery.
 
 
 
 \--------------------------------------------------
 
-IMMERSIVE PRODUCT CAMERA
+SCROLL ANIMATION SYSTEM
 
 \--------------------------------------------------
 
 
 
-The product experience should use a cinematic camera.
+Scrolling should feel smooth and premium.
 
 
 
-Allow the visitor to:
+Use:
+
+\- smooth scrolling
+
+\- scroll-triggered reveals
+
+\- subtle parallax
+
+\- pinned hero
+
+\- image scaling
+
+\- image position changes
+
+\- typography reveal
+
+\- horizontal movement where appropriate
+
+\- section transitions
 
 
 
-\- inspect the product
-
-\- rotate/view it where appropriate
-
-\- select configurations
-
-\- see material changes
-
-\- understand important details
+The Hero → About 3D transition is the strongest animation.
 
 
 
-The camera should have controlled limits.
+Later sections should use more restrained motion.
 
 
 
-Do not create an uncontrolled free-roaming 3D viewer.
+Animation hierarchy:
 
 
 
-Use carefully designed camera positions.
+HERO:
+
+HIGH
 
 
 
-Possible camera states:
+ABOUT:
+
+MEDIUM-HIGH
 
 
 
-FRONT
+FEATURED PRODUCTS:
 
-45 DEGREE
-
-SIDE
-
-DETAIL
-
-TEMPLE
-
-LENS
-
-FULL PRODUCT
+LOW-MEDIUM
 
 
 
-Transitions between camera states should be smooth.
+PRECISION:
+
+MEDIUM
+
+
+
+OPTICS:
+
+MEDIUM
+
+
+
+TRENDING:
+
+LOW
+
+
+
+VISION:
+
+MEDIUM
+
+
+
+MATERIAL:
+
+MEDIUM
+
+
+
+CONTACT:
+
+LOW
+
+
+
+This prevents the website from becoming exhausting.
 
 
 
 \--------------------------------------------------
 
-ADD TO CART
+APPLE-STYLE DESIGN PRINCIPLES
 
 \--------------------------------------------------
 
 
 
-The Add to Cart interaction should feel like part of the product experience.
+Use Apple's design philosophy as inspiration, not direct copying.
 
 
 
-Do not suddenly introduce a giant shopping drawer.
+Prioritize:
 
 
 
-Use a subtle confirmation.
+\- enormous whitespace
+
+\- strong product photography
+
+\- restrained typography
+
+\- precise alignment
+
+\- clear hierarchy
+
+\- simple navigation
+
+\- smooth transitions
+
+\- deliberate pacing
+
+\- minimal UI
+
+\- strong visual storytelling
 
 
 
-Example:
+Do NOT copy Apple's exact layouts, branding, wording, or visual assets.
 
 
 
-ADDED TO CART
+Create an original Aviator identity.
 
 
 
-1 × MODEL NAME
+\--------------------------------------------------
+
+SPACING
+
+\--------------------------------------------------
 
 
 
-VIEW CART
+Use generous whitespace throughout.
 
 
 
-CONTINUE EXPLORING
+Sections should breathe.
 
 
 
-The user should remain within the immersive experience.
+Do not place too many elements above the fold.
+
+
+
+Prefer one strong visual idea per viewport.
+
+
+
+Avoid overcrowding.
+
+
+
+Use a consistent max-width container.
+
+
+
+Maintain strong alignment across sections.
+
+
+
+\--------------------------------------------------
+
+LINES / BORDERS
+
+\--------------------------------------------------
+
+
+
+Use very few lines.
+
+
+
+Do NOT create decorative horizontal rules everywhere.
+
+
+
+Do NOT outline every card.
+
+
+
+Use whitespace to separate content.
+
+
+
+Use borders only when they improve usability.
+
+
+
+\--------------------------------------------------
+
+TEXT CONTENT
+
+\--------------------------------------------------
+
+
+
+Keep text extremely minimal.
+
+
+
+The visitor should understand the story primarily through:
+
+
+
+\- product
+
+\- photography
+
+\- typography
+
+\- motion
+
+\- composition
+
+
+
+Not paragraphs.
+
+
+
+Use short headlines.
+
+
+
+Examples:
+
+
+
+DESIGNED TO BE SEEN.
+
+
+
+FORM. FUNCTION. VISION.
+
+
+
+PRECISION IN EVERY DETAIL.
+
+
+
+CLEAR BY DESIGN.
+
+
+
+SEE DIFFERENTLY.
+
+
+
+MATERIAL MATTERS.
+
+
+
+These are examples only.
+
+
+
+Use real brand/product information when available.
 
 
 
@@ -1448,37 +1576,39 @@ CONTACT
 
 
 
-The contact section should be extremely simple.
+Keep contact extremely simple.
 
 
 
-Headline:
+Large whitespace.
 
 
 
-LET'S SEE WHERE
-
-THIS TAKES YOU.
+Short headline.
 
 
 
-Include:
+Example:
 
 
 
-email
-
-social links
-
-contact form
+LET'S TALK.
 
 
 
-Keep the form minimal.
+Email
+
+Social links
+
+Contact form
 
 
 
-Do not create a giant conventional contact form.
+Do not create a huge form.
+
+
+
+Minimal fields.
 
 
 
@@ -1490,7 +1620,7 @@ FOOTER
 
 
 
-Minimal architectural footer.
+Clean white footer.
 
 
 
@@ -1502,7 +1632,7 @@ COLLECTION
 
 ABOUT
 
-VISION
+TECHNOLOGY
 
 MATERIALS
 
@@ -1520,249 +1650,83 @@ TERMS
 
 
 
-Copyright.
-
-
-
-Use generous whitespace.
-
-
-
-The footer should feel like the quiet ending of the product film.
+Very minimal.
 
 
 
 \--------------------------------------------------
 
-IMAGE DIRECTION
+MOBILE EXPERIENCE
 
 \--------------------------------------------------
 
 
 
-Use high-quality imagery throughout.
+Mobile must be carefully designed.
 
 
 
-All photography and product images must have a consistent treatment.
+Do not simply shrink desktop.
 
 
 
-Prefer:
+The mobile layout should preserve:
 
 
 
-warm neutral lighting
+\- white space
 
-soft shadows
+\- typography
 
-controlled highlights
+\- product photography
 
-high resolution
+\- storytelling
 
-clean backgrounds
+\- smooth animation
 
-editorial composition
 
 
+For the Hero:
 
-Avoid:
 
 
+Use the same supplied 3D model.
 
-oversaturated colors
 
-random image styles
 
-different lighting temperatures
+Simplify the camera movement for mobile.
 
-generic stock photography
 
-busy environments
 
+The Hero → About transition should still happen:
 
 
-The 3D model and photography must feel like they belong to the same brand world.
 
+3D product
 
+→ rotates
 
-\--------------------------------------------------
+→ moves into a smaller right-side / upper composition
 
-60 / 30 / 10 RULE
+→ About content appears.
 
-\--------------------------------------------------
 
 
+If the right-column composition is too narrow on mobile, intelligently adapt it to:
 
-Maintain:
 
 
+product above
 
-60% warm-white negative space
+text below
 
-30% black typography / structure
 
-10% subtle gray/silver visual details
 
+while preserving the same visual story.
 
 
-Do not introduce unnecessary colors.
 
-
-
-The interface should remain visually quiet.
-
-
-
-\--------------------------------------------------
-
-MOTION DESIGN RULES
-
-\--------------------------------------------------
-
-
-
-Motion should communicate meaning.
-
-
-
-Every major animation should answer:
-
-
-
-WHY IS THIS MOVING?
-
-
-
-Examples:
-
-
-
-camera moves closer → inspect product
-
-
-
-product rotates → reveal geometry
-
-
-
-text appears → explain what visitor is seeing
-
-
-
-lens becomes larger → introduce optics
-
-
-
-material close-up → explain construction
-
-
-
-product returns → connect engineering to shopping
-
-
-
-Avoid:
-
-
-
-random floating objects
-
-constant parallax
-
-bouncing elements
-
-excessive text animation
-
-overly elastic transitions
-
-generic GSAP-style effects everywhere
-
-
-
-Animation should feel physical, precise and intentional.
-
-
-
-\--------------------------------------------------
-
-RESPONSIVE DESIGN
-
-\--------------------------------------------------
-
-
-
-Desktop is the primary cinematic experience, but mobile must still feel intentionally designed.
-
-
-
-Do NOT simply scale the desktop down.
-
-
-
-DESKTOP:
-
-
-
-\- full cinematic camera choreography
-
-\- large 3D product
-
-\- pinned scroll sequences
-
-\- large typography
-
-\- immersive transitions
-
-\- detailed product interactions
-
-
-
-MOBILE:
-
-
-
-\- simplified camera movement
-
-\- shorter animation sequences
-
-\- fewer simultaneous elements
-
-\- optimized 3D rendering
-
-\- touch-friendly controls
-
-\- reduced particle/visual effects
-
-\- preserved storytelling order
-
-\- preserved visual identity
-
-
-
-The mobile experience should remain premium rather than feeling like a broken desktop version.
-
-
-
-If performance becomes an issue, intelligently reduce:
-
-
-
-\- polygon/render complexity
-
-\- animation frequency
-
-\- shadow quality
-
-\- post-processing
-
-\- texture resolution
-
-\- simultaneous objects
-
-
-
-Never sacrifice usability for an animation.
+Do not show 3D configuration controls.
 
 
 
@@ -1774,71 +1738,41 @@ PERFORMANCE
 
 
 
-This is a real production website.
+The website must remain fast.
 
 
 
-Optimize the 3D experience.
+Optimize:
+
+\- FBX loading
+
+\- textures
+
+\- product images
+
+\- responsive images
+
+\- WebP/AVIF
+
+\- lazy loading
+
+\- code splitting
 
 
 
-Use:
+The 3D model only needs to load for the Hero.
 
 
 
-lazy loading
-
-asset compression
-
-optimized textures
-
-efficient WebGL rendering
-
-responsive pixel ratio
-
-lazy-loaded sections
-
-modern image formats
-
-WebP / AVIF where appropriate
-
-proper code splitting
+Do NOT load the 3D model repeatedly in later sections.
 
 
 
-Do not load every large image and 3D asset immediately.
+Once the Hero transition is complete, stop unnecessary 3D rendering if possible.
 
 
 
-The initial page must load quickly before loading heavier content.
-
-
-
-The 3D model should be loaded intelligently.
-
-
-
-Show a minimal loading state if necessary.
-
-
-
-The loading experience itself should fit the Aviator aesthetic.
-
-
-
-Example:
-
-
-
-AVIATOR
-
-
-
-small progress indicator
-
-
-
-No generic spinner.
+Prioritize smooth scrolling and responsive performance.
 
 
 
@@ -1850,63 +1784,47 @@ ACCESSIBILITY
 
 
 
-Maintain:
+Use:
+
+\- semantic HTML
+
+\- accessible buttons
+
+\- keyboard navigation
+
+\- proper image alt text
+
+\- accessible navigation
+
+\- visible focus states
+
+\- reduced-motion support
 
 
 
-semantic HTML
-
-keyboard navigation
-
-visible focus states
-
-sufficient contrast
-
-accessible buttons
-
-proper labels
-
-alt text
-
-reduced-motion support
+For prefers-reduced-motion:
 
 
 
-Respect:
+Reduce or disable cinematic movement while preserving:
 
+\- content
 
+\- product images
 
-prefers-reduced-motion
+\- navigation
 
+\- readability
 
-
-If the visitor prefers reduced motion:
-
-
-
-\- minimize camera movement
-
-\- disable aggressive scroll choreography
-
-\- preserve the content hierarchy
-
-\- keep product interactions usable
-
-
-
-Never make the website inaccessible because of the cinematic effects.
+\- functionality
 
 
 
 \--------------------------------------------------
 
-TECHNICAL ARCHITECTURE
+TECHNICAL IMPLEMENTATION
 
 \--------------------------------------------------
-
-
-
-Use a modern production-ready frontend architecture.
 
 
 
@@ -1914,65 +1832,55 @@ If using Next.js:
 
 
 
-\- App Router
+Use:
+
+\- Next.js
 
 \- React
 
 \- TypeScript
 
-\- semantic components
-
-\- modular section architecture
-
 
 
 For 3D:
 
-
-
-Use a production-suitable WebGL/Three.js approach.
-
-
-
-React Three Fiber is acceptable if appropriate.
+\- Three.js / React Three Fiber as appropriate
 
 
 
-Use GSAP / ScrollTrigger or an equivalent robust scroll-animation system where appropriate.
+For scrolling:
+
+\- GSAP + ScrollTrigger or another robust scroll animation solution
 
 
 
-Do not over-engineer.
+The implementation should be componentized and maintainable.
 
 
 
-Create reusable components such as:
+Suggested components:
 
 
-
-Hero3D
 
 Navigation
 
+Hero3D
+
 AboutSection
 
-ProductCard
+FeaturedProducts
 
-ProductGrid
+ProductCard
 
 PrecisionSection
 
 OpticsSection
 
-TrendingSection
+TrendingProducts
 
 VisionSection
 
 MaterialSection
-
-ProductExperience
-
-ProductConfigurator
 
 ContactSection
 
@@ -1980,317 +1888,157 @@ Footer
 
 
 
-Keep product data separate from presentation.
-
-
-
-Example product data should be structured so additional sunglasses can be added easily.
+Keep product data separate from UI components.
 
 
 
 \--------------------------------------------------
 
-IMPORTANT 3D IMPLEMENTATION
+MOST IMPORTANT 3D RULE
 
 \--------------------------------------------------
 
 
 
-The uploaded FBX is the source asset.
+THE SUPPLIED 3D FBX MODEL IS USED ONLY FOR:
 
 
 
-First inspect:
+HERO
+
+\+
+
+HERO → ABOUT TRANSITION
 
 
 
-\- model scale
-
-\- camera orientation
-
-\- mesh hierarchy
-
-\- material names
-
-\- frame meshes
-
-\- lens meshes
-
-\- hardware
-
-\- pivots
-
-\- transforms
+It is NOT used for:
 
 
 
-Normalize the model appropriately for the scene.
+\- product cards
+
+\- technical sections
+
+\- trending products
+
+\- materials section
+
+\- product settings
+
+\- product configuration
+
+\- later sections
 
 
 
-Create a controlled camera system.
+DO NOT BUILD A 3D PRODUCT CONFIGURATOR.
 
 
 
-Do not allow the model to appear microscopic or enormous.
+DO NOT ADD FRAME COLOR CONTROLS.
 
 
 
-Make sure the sunglasses have visually realistic:
+DO NOT ADD LENS COLOR CONTROLS.
 
 
 
-\- lighting
-
-\- reflections
-
-\- shadows
-
-\- contact/shadow grounding
-
-\- material response
+DO NOT ADD SIZE CONTROLS TO THE 3D MODEL.
 
 
 
-Use subtle studio-style lighting.
+DO NOT CREATE A FULL-SCREEN 3D PRODUCT VIEWER.
 
 
 
-Avoid dramatic colored lights.
-
-
-
-The product should remain believable.
-
-
-
-If the FBX materials are insufficient for configuration, create a clean material abstraction around the existing geometry without destroying the supplied model.
+The 3D model exists to create one memorable cinematic transition.
 
 
 
 \--------------------------------------------------
 
-REFERENCE IMAGE
+FINAL DESIGN TEST
 
 \--------------------------------------------------
 
 
 
-The uploaded reference image should influence:
+Before considering the website finished, ask:
 
 
 
-\- visual restraint
+Does this feel like Apple-level minimal product design?
 
-\- product scale
 
-\- whitespace
 
-\- typography
+Is there enough white space?
 
-\- alignment
 
-\- minimal controls
 
-\- product-focused composition
+Is the product photography doing most of the visual work?
 
 
 
-But DO NOT copy the reference website literally.
+Is the typography restrained?
 
 
 
-Do not reproduce its exact layout.
+Are there too many lines?
 
 
 
-Use it as inspiration for the design language only.
+Are there too many UI elements?
 
 
 
-Aviator should be more cinematic and immersive than the reference.
+Are there too many animations?
 
 
 
-\--------------------------------------------------
+Is the 3D model being used ONLY where it matters?
 
-CONTENT RULES
 
-\--------------------------------------------------
 
+Does the Hero → About transition feel special?
 
 
-Do not fill empty space with unnecessary text.
 
+Does the website tell a story while scrolling?
 
 
-Use short, confident statements.
 
+Does it still feel like a real e-commerce website?
 
 
-Tone:
 
+Does it feel premium without looking complicated?
 
 
-precise
 
-quiet
+If an element does not contribute to the product story, remove it.
 
-premium
 
-technical
 
-editorial
+The final result should be:
 
-confident
 
 
+MINIMAL.
 
-Avoid marketing clichés such as:
+WHITE.
 
+PREMIUM.
 
+EDITORIAL.
 
-"revolutionary"
+PRODUCT-FOCUSED.
 
-"next generation"
+CINEMATIC.
 
-"best in class"
+E-COMMERCE READY.
 
-"game changing"
 
-"unparalleled"
 
-
-
-unless backed by actual brand/product information.
-
-
-
-Never invent product specifications.
-
-
-
-Use placeholders where actual product data is unknown.
-
-
-
-\--------------------------------------------------
-
-FINAL EXPERIENCE
-
-\--------------------------------------------------
-
-
-
-The completed website should feel like:
-
-
-
-A luxury eyewear brand's digital flagship showroom.
-
-
-
-The visitor should remember:
-
-
-
-the silhouette of the sunglasses,
-
-the precision of the frame,
-
-the material,
-
-the lens,
-
-the movement,
-
-the atmosphere,
-
-and finally the product they want to buy.
-
-
-
-The experience should progress naturally:
-
-
-
-DISCOVER
-
-↓
-
-EXPERIENCE
-
-↓
-
-UNDERSTAND
-
-↓
-
-DESIRE
-
-↓
-
-CONFIGURE
-
-↓
-
-BUY
-
-
-
-The website should be visually minimal but interaction-rich.
-
-
-
-It should NOT be:
-
-
-
-a generic e-commerce template,
-
-a generic 3D portfolio,
-
-a WebGL experiment,
-
-a SaaS landing page,
-
-or an over-animated fashion website.
-
-
-
-It should be a highly controlled, premium, architectural product experience.
-
-
-
-PRIORITY ORDER:
-
-
-
-1\. Product presentation
-
-2\. Cinematic storytelling
-
-3\. 3D quality
-
-4\. Typography and whitespace
-
-5\. Smooth interaction
-
-6\. E-commerce usability
-
-7\. Performance
-
-8\. Accessibility
-
-
-
-If you must choose between adding another visual effect and improving product presentation, choose product presentation.
-
-
-
-If you must choose between an impressive animation and fast usability, choose usability.
-
-
-
-Every visual decision should reinforce the Aviator identity.
+The website should feel like a premium eyewear brand presenting its products through an Apple-inspired digital experience.
 
