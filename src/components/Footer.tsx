@@ -139,14 +139,43 @@ export default function Footer() {
             alignItems: 'center',
             paddingTop: '2.5rem',
             flexWrap: 'wrap',
-            gap: '1rem',
+            gap: '1.25rem',
           }}
         >
-          <p style={{ fontSize: '0.8rem', color: '#a1a1aa' }}>
-            &copy; {currentYear} AVERUNE Eyewear Inc. All rights reserved. Designed to be seen.
-          </p>
+          <div style={{ display: 'flex', alignItems: 'center', gap: '1rem', flexWrap: 'wrap' }}>
+            <p style={{ fontSize: '0.8rem', color: '#a1a1aa', margin: 0 }}>
+              &copy; {currentYear} AVERUNE Eyewear Inc. All rights reserved. Designed to be seen.
+            </p>
+            <span style={{ fontSize: '0.8rem', color: '#d4d4d8' }}>•</span>
+            <a
+              href="https://webasi.co"
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{
+                fontSize: '0.8rem',
+                color: '#71717a',
+                display: 'inline-flex',
+                alignItems: 'center',
+                gap: '0.35rem',
+                textDecoration: 'none',
+              }}
+            >
+              <span>Design by</span>
+              <span
+                style={{
+                  color: '#0a0a0a',
+                  fontWeight: 600,
+                  letterSpacing: '0.04em',
+                  textDecoration: 'underline',
+                  textUnderlineOffset: '3px',
+                }}
+              >
+                WEBASI
+              </span>
+            </a>
+          </div>
 
-          <div style={{ display: 'flex', gap: '2rem' }}>
+          <div style={{ display: 'flex', gap: '2rem', flexWrap: 'wrap' }}>
             <a href="#" style={{ fontSize: '0.8rem', color: '#71717a' }}>
               PRIVACY POLICY
             </a>
